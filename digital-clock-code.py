@@ -47,3 +47,4 @@ class Clock(QLCDNumber):
         clock = Clock()
         clock.show()
         app.exec()
+
